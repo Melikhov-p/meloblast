@@ -1,24 +1,8 @@
 # meloblast-front
 
-## Project setup
-```
-npm install
-```
+Проект маркетплейса по продаже инструменталов/сэмплов.
+Front-end. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Для запуска понадобится vue3, axios(npm install axios) и router(vue add router)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Запуск командой npm run serve
